@@ -19,3 +19,8 @@ R² Score: [0.718]
 
 ## Tools
 Python, pandas, scikit-learn, statsmodels, matplotlib
+
+## Future Improvements
+- Implement cross-validation
+- Tune hyperparameters for Random Forest
+- Incorporate external economic indicators
