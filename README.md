@@ -15,7 +15,7 @@ This project predicts residential real estate prices using statistical and machi
   
 ## Model Comparison
 
-![Model Comparison](images/modelcomparison.png)
+![Model Comparison](images/rmodel.png)
 
 The Random Forest model outperformed Linear Regression in predictive accuracy, achieving a higher R² score on the test dataset.
 
